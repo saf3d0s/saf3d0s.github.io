@@ -24,7 +24,7 @@ Upgrade-Insecure-Requests: 1
 rules=["./"]
 ```
 
-![image](https://raw.githubusercontent.com/saf3d0s/saf3d0s.github.io/master/images/2020-9-18/001.png)
+![image](https://raw.githubusercontent.com/saf3d0s/saf3d0s.github.io/master/images/2020-9-18/001.jpg)
 
 主要读取文件url:是经过函数加密的
 
